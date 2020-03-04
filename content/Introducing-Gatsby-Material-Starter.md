@@ -1,14 +1,13 @@
 ---
-title: "Introducing Gatsby Material Starter"
-cover: "starter-logo-1024.png"
-category: "gatsby"
+title: Bienestar y Productividad
+date: 2020-03-04T05:00:00.000Z
+cover: assets/130847745-bp-initial-logo-vector.jpg
+slug: Nueva Pagina
+category: gatsby
 tags:
-
-    - gatsby
-    - material
-    - starter
-
-date: "2018-07-02"
+  - gatsby
+  - material
+  - starter
 ---
 
 Around a year ago, this project was one of the first ones ported to the `v1` version of GatsbyJS.
