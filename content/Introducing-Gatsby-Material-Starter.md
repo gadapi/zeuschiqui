@@ -1,7 +1,7 @@
 ---
 title: Bienestar y Productividad
 date: 2020-03-04T05:00:00.000Z
-cover: assets/130847745-bp-initial-logo-vector.jpg
+cover: assets/471c7369227095.5b79b8b12750f.jpg
 slug: Nueva Pagina
 category: gatsby
 tags:
