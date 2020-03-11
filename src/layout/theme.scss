@@ -1,14 +1,14 @@
 @import '~react-md/src/scss/react-md';
-$md-primary-color: $md-grey-400;
-$md-secondary-color: $md-red-800;
-$md-tertiary-color: $md-grey-300;
+$md-primary-color: $md-purple-500;
+$md-secondary-color: $md-purple-200;
+$md-tertiary-color: $md-purple-100;
 
 .main-container,
 .darker-background {
-    background-color: $md-tertiary-color;
+        background-color: #e1e2e1;
 }
 
 a:link {
-    color: $md-secondary-color;
+   color: $md-primary-color;
     text-decoration: none;
 }
