@@ -1,12 +1,12 @@
 const config = {
   siteTitle: "Bienestar y Productividad", // Site title.
   siteTitleShort: "B&P", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
-  siteTitleAlt: "Bienestar y Productividad", // Alternative site title for SEO.
+  siteTitleAlt: "Riesgo Psicosocial", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
-  siteUrl: "Bienestaryproductividad.com.co", // Domain of your website without pathPrefix.
-  pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
+  sisiteUrl: "https://vagr9k.github.io", // Domain of your website without pathPrefix.
+  pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
   fixedFooter: false, // Whether the footer component is fixed, i.e. always visible
-  siteDescription: "Expertos en Riesgo Psicosocial", // Website description used for RSS feeds/meta description tag.
+  siteDescription: "Riesgo Psicosocial Colombia", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteRssTitle: "Bienestar y Productividad RSS feed", // Title of the RSS feed
   siteFBAppID: "1825356251115265", // FB Application ID for using app insights
